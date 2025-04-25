@@ -74,10 +74,7 @@ On **Windows** (PowerShell or CMD):
 java -cp ".;gson-2.8.9.jar" Main
 ```
 
-On **Linux/Mac**:
-```bash
-java -cp ".:gson-2.8.9.jar" Main
-```
+
 
 ---
 
